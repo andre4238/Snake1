@@ -1,2 +1,5 @@
-package game;public enum Dir {
+package game;
+
+public enum Dir {
+    Up, LEFT, RIGHT, DOWN
 }
